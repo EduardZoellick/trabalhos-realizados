@@ -1,2 +1,3 @@
 # trabalhos-realizados
-Repositório de arquivos
+Repositório de arquivos, referente trabalhos da faculdade
+
